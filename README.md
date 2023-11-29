@@ -1,5 +1,7 @@
 # CodeClause-Digit_Recognition_Web_App
 Hand Written Digit Recognition Web App by using CNN
+
+
 Welcome to the Digit Recognition Web App repository! This project is a simple web application that utilizes a Convolutional Neural Network (CNN) trained on the MNIST dataset to recognize handwritten digits. The app is built using Keras, TensorFlow.js, HTML, CSS, and JavaScript, and it is hosted on GitHub Pages.
 
 Project Structure
